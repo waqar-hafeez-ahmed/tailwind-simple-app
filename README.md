@@ -4,6 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 #GitHub Code of tutorial 
 https://github.com/fireclint/data-finance-react-tailwind/blob/main/src/components/Newsletter.jsx
+https://www.youtube.com/watch?v=ZU-drSVodBw
 
 #Add Tailwind 
 https://tailwindcss.com/docs/guides/create-react-app
